@@ -17,7 +17,7 @@ Used to get the country local time based on zone
 4.Check Example folder for getting the local time of the country based on the zone.
 
 ## Depedencies:
-Mendix Modeler 9.24.18
+Mendix Modeler 10.24.17
 
 ## Screenshots:
 ![Screenshot_1](https://github.com/user-attachments/assets/faadaed3-b5d6-4d90-94d2-0f684dcc02e1)
